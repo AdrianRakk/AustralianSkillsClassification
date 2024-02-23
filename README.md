@@ -1,4 +1,4 @@
-# Importing a CSV file
+# Import CSV file using Python
 The following code snippet can be used to load the **Specialist tasks hierarchy** CSV file:
 
 ```python
